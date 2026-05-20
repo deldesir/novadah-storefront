@@ -1,0 +1,54 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "24px",
+    "paddingBottom": "0px",
+    "paddingLeft": "0px",
+    "paddingRight": "0px",
+    "paddingTop": "40px",
+    "position": "relative",
+    "width": "423.9999694824219px"
+  },
+  "blockId": "4ns1wsgtl",
+  "blockName": "Addresses and Express Checkout",
+  "children": [
+    "3odgg5xjx",
+    "57b89k7cq",
+    "qprpnh1lw",
+    "hp4ufbcsx",
+    "3qhd9clpw",
+    "uoq62spvb",
+    "bcmx6q3dg"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "paddingBottom": "0px",
+    "paddingLeft": "0px",
+    "paddingRight": "0px",
+    "paddingTop": "40px",
+    "width": "100%"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "order": "1",
+    "width": "100%"
+  },
+  "visibilityCondition": null
+}

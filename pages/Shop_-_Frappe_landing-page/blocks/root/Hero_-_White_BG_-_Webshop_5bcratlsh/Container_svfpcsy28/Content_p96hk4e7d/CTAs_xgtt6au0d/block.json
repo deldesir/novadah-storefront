@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "xgtt6au0d",
+  "blockName": "CTAs",
+  "children": [
+    "7klsi6hw0",
+    "rdl6xhnr3"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "1t7ojnv1t7ojnv1t",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "ik1ehb3sv",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

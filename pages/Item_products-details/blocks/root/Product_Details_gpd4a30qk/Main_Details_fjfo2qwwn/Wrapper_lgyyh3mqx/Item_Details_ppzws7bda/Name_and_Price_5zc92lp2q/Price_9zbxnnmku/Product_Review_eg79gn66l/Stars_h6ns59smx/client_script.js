@@ -1,0 +1,1 @@
+this.innerHTML = window.renderStarRating(block_data.average_rating)

@@ -1,0 +1,38 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "gap": "16px",
+    "overflow": "hidden",
+    "width": "100%"
+  },
+  "blockId": "oaswq288c",
+  "blockName": "repeater",
+  "children": [
+    "65b7wfgpu"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": {
+    "comesFrom": "blockDataScript",
+    "key": "variants",
+    "property": "innerHTML",
+    "type": "key"
+  },
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": true,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,28 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "position": "relative"
+  },
+  "blockId": "sq33zk5yg",
+  "blockName": "app logo",
+  "children": [
+    "2bfr3hjes"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "ew0ghclsf",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

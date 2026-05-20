@@ -1,0 +1,31 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "fontSize": "16px",
+    "height": "fit-content",
+    "lineHeight": "1.4",
+    "minWidth": "10px",
+    "position": "static",
+    "width": "fit-content"
+  },
+  "blockId": "bupognf9z",
+  "blockName": null,
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Catégorie non trouvée ! Redirection...</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

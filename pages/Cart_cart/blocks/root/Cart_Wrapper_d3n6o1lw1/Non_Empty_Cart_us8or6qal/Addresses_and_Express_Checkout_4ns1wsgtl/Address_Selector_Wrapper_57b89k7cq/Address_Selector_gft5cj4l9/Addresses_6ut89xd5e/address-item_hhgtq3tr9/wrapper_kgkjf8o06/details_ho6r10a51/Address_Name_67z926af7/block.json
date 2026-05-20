@@ -1,0 +1,31 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "67z926af7",
+  "blockName": "Address Name",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "title",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "1sxw12i1sxw12i1s",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "ix4pn15fc",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

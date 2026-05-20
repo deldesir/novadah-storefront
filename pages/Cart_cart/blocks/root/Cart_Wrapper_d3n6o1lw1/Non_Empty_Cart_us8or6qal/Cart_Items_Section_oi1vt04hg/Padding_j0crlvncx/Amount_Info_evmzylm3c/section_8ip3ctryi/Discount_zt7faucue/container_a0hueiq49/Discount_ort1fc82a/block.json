@@ -1,0 +1,31 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(0, 0, 0)",
+    "display": "none",
+    "fontSize": "14px",
+    "fontWeight": "420",
+    "letterSpacing": "0.28px",
+    "lineHeight": "115% "
+  },
+  "blockId": "ort1fc82a",
+  "blockName": "Discount",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Remise -</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

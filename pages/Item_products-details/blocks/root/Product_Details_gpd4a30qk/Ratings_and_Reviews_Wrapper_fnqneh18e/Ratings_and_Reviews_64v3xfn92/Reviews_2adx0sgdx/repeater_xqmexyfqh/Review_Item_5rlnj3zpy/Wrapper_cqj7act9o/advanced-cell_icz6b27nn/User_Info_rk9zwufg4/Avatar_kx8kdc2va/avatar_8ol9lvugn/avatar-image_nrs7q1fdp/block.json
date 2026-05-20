@@ -1,0 +1,39 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": "https://webshop-next.m.frappe.cloud/assets/webshop/builder_assets/imagebe8413.webp"
+  },
+  "baseStyles": {
+    "backgroundColor": "rgb(250, 203, 60)",
+    "borderRadius": "100px",
+    "height": "32px",
+    "objectFit": "cover",
+    "width": "32px"
+  },
+  "blockId": "nrs7q1fdp",
+  "blockName": "avatar-image",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "user_image",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": "img",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,32 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "32px",
+    "fontWeight": "600",
+    "letterSpacing": "0.48px",
+    "lineHeight": "160% "
+  },
+  "blockId": "iwz4mozo5",
+  "blockName": "All Products",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Tous les produits</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "fontSize": "24px"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "height": "20px",
+    "width": "20px"
+  },
+  "blockId": "jg0gwiqio",
+  "blockName": "icon/erp/solid/star",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "svg",
+  "extendedFromComponent": null,
+  "innerHTML": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.35718 2.57176C9.64867 2.0874 10.3508 2.08742 10.6423 2.57176L13.0281 6.53562L17.5359 7.57957C18.0866 7.70717 18.3029 8.37534 17.9324 8.80223L14.9002 12.2964L15.2996 16.9057C15.3484 17.4688 14.7809 17.8817 14.2605 17.6616L9.99976 15.8559L5.74 17.6616C5.21947 17.8821 4.65108 17.4689 4.69996 16.9057L5.09937 12.2964L2.06715 8.80223C1.6966 8.37536 1.91302 7.70722 2.46363 7.57957L6.97144 6.53562L9.35718 2.57176Z\" fill=\"#171717\"/>\n</svg>\n",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "__raw_html__",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

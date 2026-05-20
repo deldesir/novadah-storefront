@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "height": "11.429px",
+    "width": "100%"
+  },
+  "blockId": "vhtbt140v",
+  "blockName": "icon/erp/line/small-add",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "svg",
+  "extendedFromComponent": null,
+  "innerHTML": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.71289 1.96387C5.90997 1.96401 6.07024 2.1242 6.07031 2.32129V5.35547H9.10352C9.30076 5.35547 9.46094 5.51565 9.46094 5.71289C9.46079 5.91001 9.30067 6.07031 9.10352 6.07031H6.07031V9.10352C6.07031 9.30067 5.91001 9.46079 5.71289 9.46094C5.51565 9.46094 5.35547 9.30076 5.35547 9.10352V6.07031H2.32129C2.1242 6.07024 1.96401 5.90997 1.96387 5.71289C1.96387 5.51569 2.12411 5.35554 2.32129 5.35547H5.35547V2.32129C5.35554 2.12411 5.51569 1.96387 5.71289 1.96387Z\" fill=\"#383838\"/>\n</svg>\n",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "__raw_html__",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

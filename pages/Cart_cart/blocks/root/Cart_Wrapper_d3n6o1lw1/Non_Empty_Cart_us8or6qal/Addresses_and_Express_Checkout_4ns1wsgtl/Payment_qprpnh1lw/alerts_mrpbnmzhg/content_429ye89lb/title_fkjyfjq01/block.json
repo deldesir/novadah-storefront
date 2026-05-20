@@ -1,0 +1,31 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignSelf": "stretch",
+    "color": "rgb(124, 124, 124)",
+    "fontSize": "13px",
+    "fontWeight": "420",
+    "letterSpacing": "0.195px",
+    "lineHeight": "150% "
+  },
+  "blockId": "fkjyfjq01",
+  "blockName": "title",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Vous serez redirigé vers une passerelle de paiement sécurisée pour finaliser votre achat. Tous les principaux modes de paiement sont acceptés.</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

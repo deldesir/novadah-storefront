@@ -1,0 +1,26 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "2m866b5ew",
+  "blockName": "menu",
+  "children": [
+    "dtku2nccj"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "e4zccit29",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

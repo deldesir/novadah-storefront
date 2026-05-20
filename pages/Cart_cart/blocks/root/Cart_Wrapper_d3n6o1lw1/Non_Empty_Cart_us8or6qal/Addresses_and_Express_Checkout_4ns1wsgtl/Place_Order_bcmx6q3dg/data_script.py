@@ -1,0 +1,1 @@
+block.visible = bool(block.cart_data.get("cart_quotation", {}).get("shipping_address"))

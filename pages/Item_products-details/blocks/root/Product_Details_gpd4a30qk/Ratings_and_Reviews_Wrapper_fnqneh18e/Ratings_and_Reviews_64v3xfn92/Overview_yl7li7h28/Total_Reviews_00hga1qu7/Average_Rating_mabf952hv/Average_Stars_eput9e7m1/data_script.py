@@ -1,0 +1,1 @@
+block.block_data = { "average_rating" : block.get("review_data").get("average_rating")}

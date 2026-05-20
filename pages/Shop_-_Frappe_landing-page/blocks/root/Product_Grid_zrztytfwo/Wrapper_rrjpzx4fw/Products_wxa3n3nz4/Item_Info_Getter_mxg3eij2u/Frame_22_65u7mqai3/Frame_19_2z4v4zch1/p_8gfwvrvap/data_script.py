@@ -1,0 +1,1 @@
+block.is_image_not_available = not bool(props["image"])

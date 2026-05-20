@@ -1,0 +1,41 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "border": "1px solid  #EDEDED",
+    "borderColor": "rgb(237, 237, 237)",
+    "borderRadius": "8px 8px 0 0",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "display": "flex",
+    "justifyContent": "space-between",
+    "padding": "8px 16px",
+    "width": "100%"
+  },
+  "blockId": "co6q8wyeo",
+  "blockName": "Frame 111",
+  "children": [
+    "kuza909n7",
+    "fp4t7mud2"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,1 @@
+block.does_not_have_image = not props["has_image"]

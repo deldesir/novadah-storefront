@@ -1,0 +1,1 @@
+block.block_data = { "web_item" : block.item_details.get("details").get("name") }

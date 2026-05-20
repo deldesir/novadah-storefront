@@ -1,0 +1,39 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(153, 153, 153)",
+    "fontSize": "14px",
+    "fontWeight": "420",
+    "letterSpacing": "0.28px",
+    "lineHeight": "115% "
+  },
+  "blockId": "0pqlvnile",
+  "blockName": "title",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "email",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Adresse e-mail</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

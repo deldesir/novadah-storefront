@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "height": "16px",
+    "width": "16px"
+  },
+  "blockId": "14jvioogl",
+  "blockName": "icon/erp/solid/star",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "svg",
+  "extendedFromComponent": null,
+  "innerHTML": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.35718 2.27146C7.64867 1.78711 8.35083 1.78713 8.64234 2.27146L10.4226 5.22947L13.7859 6.00779C14.3366 6.13538 14.5529 6.80356 14.1824 7.23045L11.9197 9.83787L12.2185 13.2773C12.267 13.8403 11.6989 14.2527 11.1785 14.0322L7.99976 12.6855L4.82105 14.0322C4.30067 14.2527 3.73249 13.8403 3.78101 13.2773L4.07984 9.83787L1.81714 7.23045C1.4466 6.80359 1.66302 6.13544 2.21363 6.00779L5.57691 5.22947L7.35718 2.27146Z\" fill=\"#171717\"/>\n</svg>\n",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "__raw_html__",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

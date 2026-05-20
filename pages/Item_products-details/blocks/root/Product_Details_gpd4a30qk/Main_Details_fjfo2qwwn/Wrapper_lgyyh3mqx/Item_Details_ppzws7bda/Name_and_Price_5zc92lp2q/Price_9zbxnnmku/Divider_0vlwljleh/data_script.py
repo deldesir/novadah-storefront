@@ -1,0 +1,1 @@
+block.visible = block.cart_settings.get("enable_reviews") and block.item_details.get("price", {}).get("formatted_price", False)

@@ -1,0 +1,32 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "display": "flex",
+    "justifyContent": "space-between",
+    "width": "100%"
+  },
+  "blockId": "sf0nlxzmv",
+  "blockName": "Frame 188",
+  "children": [
+    "jimm3mmcn"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

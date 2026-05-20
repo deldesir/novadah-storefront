@@ -1,0 +1,37 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "alignSelf": "stretch",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "8px",
+    "width": "375.9999694824219px"
+  },
+  "blockId": "38g7s3nyi",
+  "blockName": "divider",
+  "children": [
+    "pcrtfy9w3"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "width": "100%"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "width": "100%"
+  },
+  "visibilityCondition": null
+}

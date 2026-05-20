@@ -1,0 +1,33 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(56, 56, 56)",
+    "fontSize": "14px",
+    "fontWeight": "500",
+    "letterSpacing": "0.21px",
+    "lineHeight": "115% "
+  },
+  "blockId": "rib9rc333",
+  "blockName": "Discover",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Explorer</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "props",
+    "key": "is_template"
+  }
+}

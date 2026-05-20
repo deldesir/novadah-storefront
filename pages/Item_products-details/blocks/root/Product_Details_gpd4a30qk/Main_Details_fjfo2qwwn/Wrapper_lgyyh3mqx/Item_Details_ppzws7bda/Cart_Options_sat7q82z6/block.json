@@ -1,0 +1,36 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "gap": "36px",
+    "height": "fit-content",
+    "overflow": "hidden",
+    "width": "100%"
+  },
+  "blockId": "sat7q82z6",
+  "blockName": "Cart Options",
+  "children": [
+    "7q7iogb9j",
+    "rf5t0lazx",
+    "xug4zpzvp"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

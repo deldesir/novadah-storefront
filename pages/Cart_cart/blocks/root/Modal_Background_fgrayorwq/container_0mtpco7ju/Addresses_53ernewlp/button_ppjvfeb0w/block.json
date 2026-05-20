@@ -1,0 +1,26 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "ppjvfeb0w",
+  "blockName": "button",
+  "children": [
+    "k88kkg7d9"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "a2m4dn9a2m4dn9a2",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "vc2p1y9sq",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

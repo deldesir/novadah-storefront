@@ -1,0 +1,38 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderRadius": " 16px",
+    "boxShadow": "0 0 1.5px 0 rgba(0, 0, 0, 0.25), 0 0 10px 2px rgba(0, 0, 0, 0.03), 0 44px 52px -10px rgba(0, 0, 0, 0.10)",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "20px",
+    "padding": "20px 24px 24px 24px",
+    "width": "400px"
+  },
+  "blockId": "lzfl4nfc5",
+  "blockName": "Review Modal",
+  "children": [
+    "151sl5x75",
+    "qh3lfg3zz",
+    "hfvho41tx"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

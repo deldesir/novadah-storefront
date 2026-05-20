@@ -1,0 +1,37 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "display": "flex",
+    "flexWrap": "wrap",
+    "gap": "0 4px"
+  },
+  "blockId": "eput9e7m1",
+  "blockName": "Average Stars",
+  "children": [
+    "y0coigp5y",
+    "t7zqo343d",
+    "c3xj3dvn5",
+    "g3srhqzqb",
+    "c0xtz144d"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "alignContent": "flex-start"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,1 @@
+block.total_reviews = f"{block.review_data.get("total_reviews", 0)} review(s)"

@@ -1,0 +1,33 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "alignSelf": "stretch",
+    "display": "flex",
+    "gap": "20px",
+    "width": "100%"
+  },
+  "blockId": "jyly4web0",
+  "blockName": "Cart",
+  "children": [
+    "uqpcu1xjq",
+    "q1pae5z63"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

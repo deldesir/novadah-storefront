@@ -1,0 +1,43 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "border": "1px solid  #EDEDED",
+    "borderColor": "rgb(237, 237, 237)",
+    "borderRadius": " 4px",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "display": "flex",
+    "flexShrink": "0",
+    "height": "14px",
+    "justifyContent": "center",
+    "maxHeight": "14px",
+    "maxWidth": "14px",
+    "padding": "2px",
+    "position": "relative",
+    "width": "14px"
+  },
+  "blockId": "v5lvxa3un",
+  "blockName": "checkbox",
+  "children": [
+    "t1lujkcnt"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

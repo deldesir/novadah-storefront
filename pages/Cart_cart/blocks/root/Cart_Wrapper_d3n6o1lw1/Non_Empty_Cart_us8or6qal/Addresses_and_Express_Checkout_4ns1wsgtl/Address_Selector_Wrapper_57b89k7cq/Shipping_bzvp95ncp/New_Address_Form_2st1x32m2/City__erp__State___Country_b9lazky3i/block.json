@@ -1,0 +1,28 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "b9lazky3i",
+  "blockName": "City /erp/ State / Country",
+  "children": [
+    "3diio69nf",
+    "fgqol56xd",
+    "8g1bzrdde"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "1sxw12i1sxw12i1s",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "e6b4muqu2",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

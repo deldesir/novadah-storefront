@@ -1,0 +1,36 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "display": "flex",
+    "flexDirection": "row",
+    "flexShrink": 0,
+    "height": "fit-content",
+    "justifyContent": "space-between",
+    "overflow": "hidden",
+    "width": "100%"
+  },
+  "blockId": "wr6cstkly",
+  "blockName": "Label",
+  "children": [
+    "kaowm359y",
+    "4s9sq1i3k"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "button",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

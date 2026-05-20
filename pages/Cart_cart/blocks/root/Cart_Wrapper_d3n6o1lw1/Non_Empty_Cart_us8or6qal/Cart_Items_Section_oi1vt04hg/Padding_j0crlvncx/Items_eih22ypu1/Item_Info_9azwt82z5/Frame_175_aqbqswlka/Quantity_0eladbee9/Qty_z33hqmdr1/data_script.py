@@ -1,0 +1,1 @@
+block.int_qty = int(block.qty)

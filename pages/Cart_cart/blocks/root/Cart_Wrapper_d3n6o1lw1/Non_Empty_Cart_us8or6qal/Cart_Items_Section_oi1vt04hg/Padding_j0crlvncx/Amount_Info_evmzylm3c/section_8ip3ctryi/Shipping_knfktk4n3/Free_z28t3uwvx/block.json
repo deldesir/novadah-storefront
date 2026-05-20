@@ -1,0 +1,30 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "14px",
+    "fontWeight": "420",
+    "letterSpacing": "0.28px",
+    "lineHeight": "115% "
+  },
+  "blockId": "z28t3uwvx",
+  "blockName": "Free",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "Gratuit",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

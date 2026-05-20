@@ -1,0 +1,53 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "alignSelf": "stretch",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "24px",
+    "width": "100%"
+  },
+  "blockId": "rf5t0lazx",
+  "blockName": "Cart Options",
+  "children": [
+    "bb4hj4azs"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {
+    "in_stock": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": false,
+      "label": "",
+      "value": "item_details.in_stock"
+    },
+    "stock_qty": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": false,
+      "label": "",
+      "value": "item_details.stock_qty"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "cart_settings.enabled"
+  }
+}

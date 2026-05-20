@@ -1,0 +1,35 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "backgroundColor": "#F3F3F3"
+  },
+  "blockId": "pcbw9fpqu",
+  "blockName": null,
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "details.image",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "5duqkgk5duqkgk5d",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {
+    "object-fit": "cover"
+  },
+  "referenceBlockId": "apiag40yr",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

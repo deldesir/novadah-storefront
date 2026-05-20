@@ -1,0 +1,33 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "display": "flex",
+    "gap": "8px",
+    "width": "86px"
+  },
+  "blockId": "n4yt9ksor",
+  "blockName": "input-text",
+  "children": [
+    "t1w2dtyu2"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,34 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "uyinladck",
+  "blockName": "₹998.00",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "item_details.product_info.price.formatted_price",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "7so4gti7so4gti7s",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "nn5nyj6ig",
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "item_details.cart_settings.enabled"
+  }
+}

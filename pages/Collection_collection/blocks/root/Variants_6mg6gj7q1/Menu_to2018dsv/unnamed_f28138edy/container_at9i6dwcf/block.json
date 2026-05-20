@@ -1,0 +1,40 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "at9i6dwcf",
+  "blockName": "container",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": "nw30smnw30smnw30",
+  "innerHTML": null,
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {
+    "icon_name": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Icon Name",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "home"
+        },
+        "type": "string"
+      },
+      "value": "x"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": "od1wlpm8z",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

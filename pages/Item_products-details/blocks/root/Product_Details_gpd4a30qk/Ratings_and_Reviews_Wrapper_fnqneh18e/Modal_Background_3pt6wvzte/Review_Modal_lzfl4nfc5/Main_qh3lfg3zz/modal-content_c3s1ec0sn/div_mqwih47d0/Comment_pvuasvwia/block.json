@@ -1,0 +1,43 @@
+{
+  "activeState": null,
+  "attributes": {
+    "placeholder": "Comments"
+  },
+  "baseStyles": {
+    "backgroundColor": "rgb(243, 243, 243)",
+    "borderRadius": "8px",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "fontSize": "14px",
+    "height": "84px",
+    "overflow": "hidden",
+    "overflowX": "hidden",
+    "overflowY": "hidden",
+    "position": "static",
+    "width": "100%"
+  },
+  "blockId": "pvuasvwia",
+  "blockName": "Comment",
+  "children": [],
+  "classes": [],
+  "customAttributes": {
+    "id": "comment-input"
+  },
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "textarea",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {
+    "border": "none"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

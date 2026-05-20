@@ -1,0 +1,39 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "alignSelf": "stretch",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "20px",
+    "paddingTop": "10px",
+    "position": "relative",
+    "width": "100%"
+  },
+  "blockId": "qirlhc8ry",
+  "blockName": "Frame 20",
+  "children": [
+    "7uv5011bh",
+    "qup72u5d5"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "innerHTML": "",
+  "isChildOfComponent": "f8ba9d4fff23821f",
+  "mobileStyles": {
+    "gap": "12px",
+    "paddingBottom": "4px",
+    "paddingLeft": "0px",
+    "paddingRight": "0px",
+    "paddingTop": "4px"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "s39quqlmp",
+  "tabletStyles": {}
+}

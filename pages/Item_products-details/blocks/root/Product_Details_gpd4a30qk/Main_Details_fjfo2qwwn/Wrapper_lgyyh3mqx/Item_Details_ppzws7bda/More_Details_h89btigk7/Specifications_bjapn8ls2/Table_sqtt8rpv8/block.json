@@ -1,0 +1,35 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "row",
+    "flexShrink": 0,
+    "overflow": "hidden",
+    "position": "static",
+    "width": "100%"
+  },
+  "blockId": "sqtt8rpv8",
+  "blockName": "Table",
+  "children": [
+    "m8gk78gi0"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {
+    "transition": "all 0.3s ease-out"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

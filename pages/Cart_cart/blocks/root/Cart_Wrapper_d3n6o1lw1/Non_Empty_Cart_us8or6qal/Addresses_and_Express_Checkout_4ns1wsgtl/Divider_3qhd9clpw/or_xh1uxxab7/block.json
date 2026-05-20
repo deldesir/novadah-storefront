@@ -1,0 +1,32 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "11px",
+    "fontWeight": "420",
+    "letterSpacing": "0.99px",
+    "lineHeight": "115% ",
+    "textAlign": "center",
+    "textTransform": "uppercase"
+  },
+  "blockId": "xh1uxxab7",
+  "blockName": "or",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "ou",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,26 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": "https://webshop-next.m.frappe.cloud/files/image 1.webp"
+  },
+  "baseStyles": {},
+  "blockId": "rqwfuaxdo",
+  "blockName": "image 1",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "1t7ojnv1t7ojnv1t",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "cv0yxhlyx",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

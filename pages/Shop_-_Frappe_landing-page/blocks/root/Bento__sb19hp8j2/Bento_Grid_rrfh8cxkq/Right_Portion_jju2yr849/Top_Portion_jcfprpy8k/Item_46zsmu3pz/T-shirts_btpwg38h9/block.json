@@ -1,0 +1,37 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "bottom": "18px",
+    "fontWeight": "500",
+    "left": "18px"
+  },
+  "blockId": "btpwg38h9",
+  "blockName": "T-shirts",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "props",
+      "key": "name",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "5duqkgk5duqkgk5d",
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "fontSize": "16px"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "sc2x6glnc",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

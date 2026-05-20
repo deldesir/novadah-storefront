@@ -1,0 +1,1 @@
+block.description = block.item_details.get("details", {}).get("web_long_description", False) or "<i>No Description</i>"

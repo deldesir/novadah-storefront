@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "00kbp9fcp",
+  "blockName": "Title /erp/ PIN",
+  "children": [
+    "01vqm0kzc",
+    "ln2d7se30"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "1sxw12i1sxw12i1s",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "fxz9rlk73",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

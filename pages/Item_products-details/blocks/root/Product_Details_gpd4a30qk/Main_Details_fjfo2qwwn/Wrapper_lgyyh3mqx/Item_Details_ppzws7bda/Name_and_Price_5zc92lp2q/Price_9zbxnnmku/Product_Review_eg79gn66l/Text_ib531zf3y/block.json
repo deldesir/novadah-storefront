@@ -1,0 +1,38 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "14px",
+    "fontWeight": "420",
+    "letterSpacing": "0.28px",
+    "lineHeight": "115% ",
+    "textAlign": "center"
+  },
+  "blockId": "ib531zf3y",
+  "blockName": "Text",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "text",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>(4 étoiles) • 10 avis</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

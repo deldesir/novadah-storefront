@@ -1,0 +1,38 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "border": "1px solid  #E2E2E2",
+    "borderColor": "rgb(226, 226, 226)",
+    "borderRadius": " 8px",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "display": "flex",
+    "gap": "8px",
+    "justifyContent": "center",
+    "padding": "6px 8px"
+  },
+  "blockId": "tjjjxc6lo",
+  "blockName": "Cancel",
+  "children": [
+    "3u7v20kt2"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "button",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

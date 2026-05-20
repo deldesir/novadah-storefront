@@ -1,0 +1,38 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "letterSpacing": "0.24px",
+    "lineHeight": "115% "
+  },
+  "blockId": "b9srbb82h",
+  "blockName": "₹998",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "props",
+      "key": "item_price",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": "p",
+  "innerHTML": "<p>₹998</p>",
+  "isChildOfComponent": "f8ba9d4fff23821f",
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "gu19bbp9v",
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "show_price"
+  }
+}

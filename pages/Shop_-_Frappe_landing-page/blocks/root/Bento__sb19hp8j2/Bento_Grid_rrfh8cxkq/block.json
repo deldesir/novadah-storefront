@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "rrfh8cxkq",
+  "blockName": "Bento Grid",
+  "children": [
+    "x4s9rkgq5",
+    "jju2yr849"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "10ui19m10ui19m10",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "1keqbyl1j",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

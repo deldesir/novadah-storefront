@@ -1,0 +1,1 @@
+block.visible = int(props["page"]) > 1

@@ -1,0 +1,1 @@
+block.is_cart_not_empty = not block.is_cart_empty

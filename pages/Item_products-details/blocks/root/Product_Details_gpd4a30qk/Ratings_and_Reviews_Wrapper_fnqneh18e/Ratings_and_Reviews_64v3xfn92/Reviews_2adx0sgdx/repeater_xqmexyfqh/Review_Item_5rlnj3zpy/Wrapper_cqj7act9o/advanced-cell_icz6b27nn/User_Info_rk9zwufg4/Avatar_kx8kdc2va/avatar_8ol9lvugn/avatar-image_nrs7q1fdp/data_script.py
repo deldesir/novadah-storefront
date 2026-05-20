@@ -1,0 +1,1 @@
+block.user_image = block.user_image or f"https://api.dicebear.com/9.x/initials/svg?seed={block.user}"

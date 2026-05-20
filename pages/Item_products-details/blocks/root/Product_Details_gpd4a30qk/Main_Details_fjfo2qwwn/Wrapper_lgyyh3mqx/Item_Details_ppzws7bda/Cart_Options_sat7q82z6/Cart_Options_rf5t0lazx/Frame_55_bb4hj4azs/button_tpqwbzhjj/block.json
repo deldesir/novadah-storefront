@@ -1,0 +1,40 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "backgroundColor": "rgb(23, 23, 23)",
+    "borderRadius": "10px",
+    "display": "flex",
+    "gap": "8px",
+    "height": "40px",
+    "justifyContent": "center",
+    "padding": "10px 12px",
+    "width": "100%"
+  },
+  "blockId": "tpqwbzhjj",
+  "blockName": "button",
+  "children": [
+    "c10ubw5ho"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "cart_settings.enable_checkout"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": "https://webshop-next.m.frappe.cloud/assets/webshop/builder_assets/image83c748.webp"
+  },
+  "baseStyles": {},
+  "blockId": "obfh0cace",
+  "blockName": "ChatGPT Image Jan 20, 2026, 01_51_00 PM 1",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "item_details.product_info.details.website_image",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "7so4gti7so4gti7s",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "object-fit": "contain"
+  },
+  "referenceBlockId": "ty0dj8o48",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

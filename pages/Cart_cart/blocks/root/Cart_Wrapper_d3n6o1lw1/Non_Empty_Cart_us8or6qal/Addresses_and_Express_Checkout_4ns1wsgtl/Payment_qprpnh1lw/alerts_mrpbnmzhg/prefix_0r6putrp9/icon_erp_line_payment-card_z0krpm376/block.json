@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "height": "16px",
+    "width": "100%"
+  },
+  "blockId": "z0krpm376",
+  "blockName": "icon/erp/line/payment-card",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "svg",
+  "extendedFromComponent": null,
+  "innerHTML": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 2C14.1046 2 15 2.89543 15 4V12L14.9893 12.2041C14.8938 13.1457 14.1457 13.8938 13.2041 13.9893L13 14H3L2.7959 13.9893C1.85435 13.8938 1.1062 13.1457 1.01074 12.2041L1 12V4C1 2.89543 1.89543 2 3 2H13ZM2 6.38867V12C2 12.5523 2.44772 13 3 13H13C13.5523 13 14 12.5523 14 12V6.38867H2ZM3 3C2.44772 3 2 3.44772 2 4V5.38867H14V4C14 3.44772 13.5523 3 13 3H3Z\" fill=\"#525252\"/>\n</svg>\n",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "__raw_html__",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

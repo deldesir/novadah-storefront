@@ -1,0 +1,37 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "16px",
+    "fontWeight": "600",
+    "letterSpacing": "0.24px",
+    "lineHeight": "115% "
+  },
+  "blockId": "d7nr128lf",
+  "blockName": "₹899",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "formatted_rate",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>₹899</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

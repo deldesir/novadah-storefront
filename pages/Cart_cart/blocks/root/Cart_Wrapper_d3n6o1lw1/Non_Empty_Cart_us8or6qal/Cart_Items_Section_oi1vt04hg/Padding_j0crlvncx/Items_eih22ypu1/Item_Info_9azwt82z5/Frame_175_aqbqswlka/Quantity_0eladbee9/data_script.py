@@ -1,0 +1,1 @@
+block.block_data = { "item_code" : block.item_code,  "qty" : block.qty }

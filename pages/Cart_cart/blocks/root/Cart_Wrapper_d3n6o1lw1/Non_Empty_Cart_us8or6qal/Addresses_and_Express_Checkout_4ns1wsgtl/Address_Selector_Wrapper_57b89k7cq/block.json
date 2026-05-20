@@ -1,0 +1,37 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "gap": "32px",
+    "overflow": "hidden",
+    "overflowX": "hidden",
+    "overflowY": "hidden",
+    "position": "static",
+    "width": "100%"
+  },
+  "blockId": "57b89k7cq",
+  "blockName": "Address Selector Wrapper",
+  "children": [
+    "bzvp95ncp",
+    "gft5cj4l9"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

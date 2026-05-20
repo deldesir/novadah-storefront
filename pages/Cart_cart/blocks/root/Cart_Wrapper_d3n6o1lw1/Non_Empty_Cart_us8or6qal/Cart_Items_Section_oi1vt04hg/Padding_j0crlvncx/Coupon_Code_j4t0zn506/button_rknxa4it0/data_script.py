@@ -1,0 +1,1 @@
+block.visible = not bool(block.cart_data.get("cart_quotation").get("coupon_code", ""))

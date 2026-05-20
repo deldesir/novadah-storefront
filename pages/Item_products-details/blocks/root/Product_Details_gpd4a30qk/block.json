@@ -1,0 +1,56 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "48px",
+    "justifyContent": "center",
+    "paddingBottom": "60px",
+    "paddingLeft": "180px",
+    "paddingRight": "180px",
+    "paddingTop": "60px",
+    "position": "static",
+    "width": "100%"
+  },
+  "blockId": "gpd4a30qk",
+  "blockName": "Product Details",
+  "children": [
+    "mo7cddb34",
+    "fjfo2qwwn",
+    "bkjzbssj7",
+    "uctt7l7v6",
+    "fnqneh18e"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "alignItems": "flex-start",
+    "justifyContent": "center",
+    "paddingBottom": "20px",
+    "paddingLeft": "20px",
+    "paddingRight": "20px",
+    "paddingTop": "20px",
+    "width": "100%"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "paddingBottom": "30px",
+    "paddingLeft": "90px",
+    "paddingRight": "90px",
+    "paddingTop": "30px"
+  },
+  "visibilityCondition": null
+}

@@ -1,0 +1,20 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "qibm3cuhv",
+  "blockName": "menu",
+  "children": [
+    "3iztg9jm4"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "mobileStyles": {},
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "e4zccit29",
+  "tabletStyles": {}
+}

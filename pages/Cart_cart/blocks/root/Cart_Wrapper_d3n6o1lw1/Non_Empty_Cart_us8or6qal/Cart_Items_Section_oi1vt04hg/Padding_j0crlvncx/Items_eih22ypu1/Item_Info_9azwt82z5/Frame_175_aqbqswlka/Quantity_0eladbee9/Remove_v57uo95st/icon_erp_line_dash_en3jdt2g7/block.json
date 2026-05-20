@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "height": "11.429px",
+    "width": "100%"
+  },
+  "blockId": "en3jdt2g7",
+  "blockName": "icon/erp/line/dash",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "svg",
+  "extendedFromComponent": null,
+  "innerHTML": "<svg width=\"12\" height=\"12\" viewBox=\"0 0 12 12\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.57086 5.35645C8.76806 5.35645 8.92821 5.51669 8.92828 5.71387C8.92828 5.91111 8.76811 6.07129 8.57086 6.07129H2.85699C2.65981 6.07121 2.49957 5.91107 2.49957 5.71387C2.49965 5.51673 2.65986 5.35652 2.85699 5.35645H8.57086Z\" fill=\"#383838\"/>\n</svg>\n",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "__raw_html__",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

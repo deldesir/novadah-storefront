@@ -1,0 +1,40 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": ""
+  },
+  "baseStyles": {
+    "height": "100%",
+    "objectFit": "cover",
+    "width": "100%"
+  },
+  "blockId": "zimt9z9b9",
+  "blockName": "Slidehow Image",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "url",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": "img",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0",
+    "object-fit": "contain"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

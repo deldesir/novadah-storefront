@@ -1,0 +1,51 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": "https://webshop-next.m.frappe.cloud/assets/webshop/builder_assets/image.webp"
+  },
+  "baseStyles": {
+    "alignSelf": "stretch",
+    "border": "1px solid  #EDEDED",
+    "borderColor": "rgb(237, 237, 237)",
+    "borderRadius": "8px",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "height": "449px",
+    "objectFit": "cover"
+  },
+  "blockId": "q7s5mftsr",
+  "blockName": "Selected Image",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "initially_selected_image.url",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": "img",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "width": "100%"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "aspectRatio": "1/erp/1",
+    "object-fit": "contain"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "has_image"
+  }
+}

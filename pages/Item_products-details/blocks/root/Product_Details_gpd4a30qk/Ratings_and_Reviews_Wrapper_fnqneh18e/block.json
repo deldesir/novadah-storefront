@@ -1,0 +1,39 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "gap": "24px",
+    "height": "fit-content",
+    "overflow": "hidden",
+    "width": "100%"
+  },
+  "blockId": "fnqneh18e",
+  "blockName": "Ratings and Reviews Wrapper",
+  "children": [
+    "v3csjcy9d",
+    "64v3xfn92",
+    "3pt6wvzte"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "cart_settings.enable_reviews"
+  }
+}

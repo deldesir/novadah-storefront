@@ -1,0 +1,1 @@
+block.is_not_template = not bool(props["is_template"])

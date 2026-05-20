@@ -1,0 +1,125 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "9roduuvjg",
+  "blockName": "Frame 22",
+  "children": [
+    "yv3j8ga0e",
+    "8eeqevayp"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "props",
+      "key": "route",
+      "property": "href",
+      "type": "attribute"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": "enur6fenur6fenur",
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {
+    "image": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Image",
+      "propOptions": {
+        "isRequired": false,
+        "options": {},
+        "type": "image"
+      },
+      "value": "thumbnail"
+    },
+    "is_template": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Is Template",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "false",
+          "falseLabel": "No",
+          "trueLabel": "Yes"
+        },
+        "type": "boolean"
+      },
+      "value": "is_template"
+    },
+    "item_code": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Item Code",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "item_code"
+        },
+        "type": "string"
+      },
+      "value": "item_code"
+    },
+    "item_name": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Item Name",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Item Name"
+        },
+        "type": "string"
+      },
+      "value": "item_name"
+    },
+    "item_price": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Item Price",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "998"
+        },
+        "type": "string"
+      },
+      "value": "item_price"
+    },
+    "route": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Route",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "/"
+        },
+        "type": "string"
+      },
+      "value": "route"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {}
+}

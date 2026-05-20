@@ -1,0 +1,44 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "alignSelf": "stretch",
+    "borderColor": "rgb(237, 237, 237)",
+    "borderRadius": "0 0 8px 8px",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "12px",
+    "padding": "16px 16px 12px 16px",
+    "width": "100%"
+  },
+  "blockId": "kpr4r9vgx",
+  "blockName": "Frame 114",
+  "children": [
+    "it7b8su3b",
+    "t56p9d4wz"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "borderBottom": "1px solid  #EDEDED",
+    "borderLeft": "1px solid  #EDEDED",
+    "borderRight": "1px solid  #EDEDED"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

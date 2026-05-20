@@ -1,0 +1,31 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(56, 56, 56)",
+    "fontSize": "14px",
+    "fontWeight": "500",
+    "letterSpacing": "0.21px",
+    "lineHeight": "115% "
+  },
+  "blockId": "t4ezktg0f",
+  "blockName": "Discover",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "innerHTML": "<p>Explorer</p>",
+  "isChildOfComponent": "f8ba9d4fff23821f",
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "w94j8bd38",
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "props",
+    "key": "is_template"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "display": "flex",
+    "gap": "10px",
+    "justifyContent": "center",
+    "width": "375.9999694824219px"
+  },
+  "blockId": "hs9zytj98",
+  "blockName": "Summary",
+  "children": [
+    "gcrfbank2",
+    "8xbuyge7w"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "width": "100%"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "width": "100%"
+  },
+  "visibilityCondition": null
+}

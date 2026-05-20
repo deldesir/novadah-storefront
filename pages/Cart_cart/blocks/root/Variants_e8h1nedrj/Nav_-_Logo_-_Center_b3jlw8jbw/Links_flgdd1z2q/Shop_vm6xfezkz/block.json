@@ -1,0 +1,37 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "vm6xfezkz",
+  "blockName": "Shop",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "props",
+      "key": "key",
+      "property": "innerHTML",
+      "type": "key"
+    },
+    {
+      "comesFrom": "props",
+      "key": "value",
+      "property": "href",
+      "type": "attribute"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "hqqstqulg",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

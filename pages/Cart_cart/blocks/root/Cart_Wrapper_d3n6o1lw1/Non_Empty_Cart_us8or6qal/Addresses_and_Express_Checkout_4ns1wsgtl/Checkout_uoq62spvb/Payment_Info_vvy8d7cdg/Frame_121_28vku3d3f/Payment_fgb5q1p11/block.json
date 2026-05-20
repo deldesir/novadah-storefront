@@ -1,0 +1,31 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignSelf": "stretch",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "16px",
+    "fontWeight": "600",
+    "letterSpacing": "0.24px",
+    "lineHeight": "115% "
+  },
+  "blockId": "fgb5q1p11",
+  "blockName": "Payment",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Paiement</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

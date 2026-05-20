@@ -1,0 +1,39 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(23, 23, 23)",
+    "flexShrink": 0,
+    "fontSize": "14px",
+    "fontWeight": "420",
+    "letterSpacing": "0.28px",
+    "lineHeight": "115% ",
+    "textAlign": "right"
+  },
+  "blockId": "jmen46anp",
+  "blockName": "No of reviews",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "count",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>0</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

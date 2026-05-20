@@ -1,0 +1,39 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "flexWrap": "wrap",
+    "position": "relative"
+  },
+  "blockId": "root",
+  "blockName": null,
+  "children": [
+    "sj8dc9qi9",
+    "so77wzvnd",
+    "xn96bd0io",
+    "82w51ptto",
+    "u8ps2ruv8",
+    "8o4x4bbf5"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "draggable": false,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "body",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

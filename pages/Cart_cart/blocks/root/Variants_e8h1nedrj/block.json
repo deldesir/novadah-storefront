@@ -1,0 +1,90 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "position": "relative"
+  },
+  "blockId": "e8h1nedrj",
+  "blockName": "Variants",
+  "children": [
+    "kklj8065f",
+    "e72zli472",
+    "hwlav4mgd",
+    "b3jlw8jbw",
+    "dhvs0kjd0"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": "5yb01f65yb01f65y",
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {
+    "homepage_link": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Homepage Link",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "/"
+        },
+        "type": "string"
+      },
+      "value": null
+    },
+    "links": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Links",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": {
+            "À propos": "/about",
+            "Collections": "/collections",
+            "Boutique": "/store"
+          },
+          "maxItems": null,
+          "minItems": null
+        },
+        "type": "object"
+      },
+      "value": null
+    },
+    "variant": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Variant",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Links - Left",
+          "options": [
+            "Links - Right",
+            "Links - Center",
+            "Links - Left",
+            "Logo - Center"
+          ]
+        },
+        "type": "select"
+      },
+      "value": "Logo - Center"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

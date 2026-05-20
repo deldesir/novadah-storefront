@@ -1,0 +1,36 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "backgroundColor": "rgb(243, 243, 243)",
+    "borderRadius": "100px",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "10px",
+    "width": "100%"
+  },
+  "blockId": "wxvczps0s",
+  "blockName": "Percentage",
+  "children": [
+    "c0u4sar7p"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

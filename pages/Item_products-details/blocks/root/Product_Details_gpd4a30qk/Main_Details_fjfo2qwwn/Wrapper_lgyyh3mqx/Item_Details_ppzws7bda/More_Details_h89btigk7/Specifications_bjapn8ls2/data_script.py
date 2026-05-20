@@ -1,0 +1,1 @@
+block.visible = bool(len(block.item_details.get("details", {}).get("website_specifications", [])))

@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "0u7r2nr70",
+  "blockName": "Texts",
+  "children": [
+    "am7lw7bku",
+    "xzcenf7m7"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "1t7ojnv1t7ojnv1t",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "j4qbdu5fo",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

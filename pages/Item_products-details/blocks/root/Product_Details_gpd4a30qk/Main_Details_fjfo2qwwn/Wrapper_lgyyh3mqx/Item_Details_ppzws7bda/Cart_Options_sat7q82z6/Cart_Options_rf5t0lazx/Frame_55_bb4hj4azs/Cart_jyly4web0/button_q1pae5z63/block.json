@@ -1,0 +1,42 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "border": "1px solid  #E2E2E2",
+    "borderColor": "rgb(226, 226, 226)",
+    "borderRadius": "10px",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "display": "flex",
+    "gap": "8px",
+    "height": "40px",
+    "justifyContent": "center",
+    "padding": "10px 12px",
+    "width": "434px"
+  },
+  "blockId": "q1pae5z63",
+  "blockName": "button",
+  "children": [
+    "bbpsxpmxu"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "button",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

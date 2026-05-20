@@ -1,0 +1,44 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "32px",
+    "paddingBottom": "0px",
+    "paddingLeft": "0px",
+    "paddingRight": "0px",
+    "paddingTop": "40px",
+    "width": "423.9999694824219px"
+  },
+  "blockId": "oi1vt04hg",
+  "blockName": "Cart Items Section",
+  "children": [
+    "j0crlvncx"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "padding": "0px",
+    "width": "100%"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "order": "0",
+    "width": "100%"
+  },
+  "visibilityCondition": null
+}

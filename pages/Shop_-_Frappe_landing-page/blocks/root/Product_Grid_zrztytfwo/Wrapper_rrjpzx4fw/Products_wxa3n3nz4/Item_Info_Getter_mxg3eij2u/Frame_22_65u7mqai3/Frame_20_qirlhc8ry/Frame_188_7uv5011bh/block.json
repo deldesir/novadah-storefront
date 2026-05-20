@@ -1,0 +1,30 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "display": "flex",
+    "justifyContent": "space-between",
+    "width": "100%"
+  },
+  "blockId": "7uv5011bh",
+  "blockName": "Frame 188",
+  "children": [
+    "pfk8nea8j",
+    "b9srbb82h"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "innerHTML": "",
+  "isChildOfComponent": "f8ba9d4fff23821f",
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "htls5ezy4",
+  "tabletStyles": {}
+}

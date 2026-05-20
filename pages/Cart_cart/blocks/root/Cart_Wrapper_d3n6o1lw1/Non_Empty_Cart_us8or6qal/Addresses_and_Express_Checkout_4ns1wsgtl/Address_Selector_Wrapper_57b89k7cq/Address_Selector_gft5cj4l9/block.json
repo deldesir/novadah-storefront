@@ -1,0 +1,52 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "position": "relative"
+  },
+  "blockId": "gft5cj4l9",
+  "blockName": "Address Selector",
+  "children": [
+    "rjpqjly0a",
+    "6ut89xd5e",
+    "achzvom2y",
+    "y09wz20ac",
+    "4oumsi250"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": "1sxw12i1sxw12i1s",
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {
+    "type": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Type",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Shipping",
+          "options": [
+            "Shipping",
+            "Billing"
+          ]
+        },
+        "type": "select"
+      },
+      "value": "Billing"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

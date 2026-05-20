@@ -1,0 +1,43 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "fontSize": "16px",
+    "height": "fit-content",
+    "lineHeight": "1.4",
+    "minWidth": "10px",
+    "position": "static",
+    "width": "fit-content"
+  },
+  "blockId": "3hermlo5h",
+  "blockName": null,
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Aucune image disponible</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {
+    "has_image": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": false,
+      "isStandard": false,
+      "label": "",
+      "value": "has_image"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "does_not_have_image"
+  }
+}

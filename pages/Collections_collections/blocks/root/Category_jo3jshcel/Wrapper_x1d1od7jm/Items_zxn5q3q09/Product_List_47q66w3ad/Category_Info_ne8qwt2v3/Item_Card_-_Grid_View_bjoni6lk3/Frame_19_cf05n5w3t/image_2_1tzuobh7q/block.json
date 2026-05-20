@@ -1,0 +1,38 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": "/assets/webshop/builder_assets/image.webp"
+  },
+  "baseStyles": {
+    "alignSelf": "stretch",
+    "objectFit": "cover"
+  },
+  "blockId": "1tzuobh7q",
+  "blockName": "image 2",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "collection_image",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": "img",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {}
+}

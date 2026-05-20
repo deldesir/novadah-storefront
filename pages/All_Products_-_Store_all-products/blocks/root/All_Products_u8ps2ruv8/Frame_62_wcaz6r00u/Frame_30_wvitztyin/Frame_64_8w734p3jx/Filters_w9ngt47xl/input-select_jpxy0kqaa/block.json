@@ -1,0 +1,61 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "border": "1px solid  #E2E2E2",
+    "borderColor": "rgb(226, 226, 226)",
+    "borderRadius": "8px",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "display": "flex",
+    "justifyContent": "space-between",
+    "padding": "8px 10px",
+    "position": "static",
+    "width": "191px"
+  },
+  "blockId": "jpxy0kqaa",
+  "blockName": "input-select",
+  "children": [],
+  "classes": [
+    "multi-select-filter"
+  ],
+  "customAttributes": {
+    "data-multi-select": "",
+    "multiple": ""
+  },
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "select",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {
+    "available_collections": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": false,
+      "label": "",
+      "value": "collections"
+    },
+    "selected_collections": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": false,
+      "label": "",
+      "value": "selected_collections"
+    }
+  },
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

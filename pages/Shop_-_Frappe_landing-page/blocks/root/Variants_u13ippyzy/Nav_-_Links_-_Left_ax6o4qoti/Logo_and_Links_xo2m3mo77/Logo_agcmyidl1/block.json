@@ -1,0 +1,29 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "agcmyidl1",
+  "blockName": "Logo",
+  "children": [
+    "nvbwdd1ra",
+    "vltwuvz68"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "props",
+      "key": "homepage_link",
+      "property": "href",
+      "type": "attribute"
+    }
+  ],
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "m4iww0axy",
+  "tabletStyles": {}
+}

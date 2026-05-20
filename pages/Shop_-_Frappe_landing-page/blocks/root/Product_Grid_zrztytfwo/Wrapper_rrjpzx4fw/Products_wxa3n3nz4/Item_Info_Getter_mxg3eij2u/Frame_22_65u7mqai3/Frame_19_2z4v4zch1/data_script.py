@@ -1,0 +1,1 @@
+block.is_image_available = bool(props["image"])

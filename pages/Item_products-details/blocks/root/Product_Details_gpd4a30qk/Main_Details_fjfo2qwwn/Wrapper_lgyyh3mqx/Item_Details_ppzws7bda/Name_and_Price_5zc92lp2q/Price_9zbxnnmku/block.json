@@ -1,0 +1,45 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "display": "flex",
+    "gap": "16px"
+  },
+  "blockId": "9zbxnnmku",
+  "blockName": "Price",
+  "children": [
+    "a02gd4c8q",
+    "0vlwljleh",
+    "eg79gn66l"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "flexWrap": "wrap",
+    "gap": "8px",
+    "height": "fit-content"
+  },
+  "originalElement": "",
+  "props": {
+    "formatted_price": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": false,
+      "label": "",
+      "value": "item_details.price.formatted_price"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

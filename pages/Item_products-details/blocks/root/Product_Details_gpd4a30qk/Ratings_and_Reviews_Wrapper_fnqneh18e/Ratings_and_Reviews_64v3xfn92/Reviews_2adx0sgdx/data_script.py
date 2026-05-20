@@ -1,0 +1,1 @@
+block.visible = bool(len(block.review_data.get("reviews")))

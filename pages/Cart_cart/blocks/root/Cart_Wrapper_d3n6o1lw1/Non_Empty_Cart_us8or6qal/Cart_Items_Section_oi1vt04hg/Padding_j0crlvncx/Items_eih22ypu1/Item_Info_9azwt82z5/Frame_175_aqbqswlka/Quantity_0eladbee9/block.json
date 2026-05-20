@@ -1,0 +1,36 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "rgb(243, 243, 243)",
+    "borderRadius": " 5.714px",
+    "display": "flex",
+    "justifyContent": "space-between",
+    "padding": "4.286px 5.714px",
+    "width": "52.857154846191406px"
+  },
+  "blockId": "0eladbee9",
+  "blockName": "Quantity",
+  "children": [
+    "v57uo95st",
+    "z33hqmdr1",
+    "88fembumv"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

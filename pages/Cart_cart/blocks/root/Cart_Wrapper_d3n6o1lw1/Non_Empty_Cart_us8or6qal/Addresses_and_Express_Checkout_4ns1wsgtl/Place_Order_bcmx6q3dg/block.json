@@ -1,0 +1,42 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "backgroundColor": "rgb(23, 23, 23)",
+    "borderRadius": "10px",
+    "display": "flex",
+    "gap": "8px",
+    "height": "40px",
+    "justifyContent": "center",
+    "padding": "10px 12px",
+    "width": "100%"
+  },
+  "blockId": "bcmx6q3dg",
+  "blockName": "Place Order",
+  "children": [
+    "9eg2e93ht"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "display": "flex"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "visible"
+  }
+}

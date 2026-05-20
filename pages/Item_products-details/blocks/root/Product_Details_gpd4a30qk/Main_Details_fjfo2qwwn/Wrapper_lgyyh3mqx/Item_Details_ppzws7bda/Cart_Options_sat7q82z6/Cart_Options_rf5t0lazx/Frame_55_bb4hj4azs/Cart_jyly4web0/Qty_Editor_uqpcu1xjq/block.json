@@ -1,0 +1,37 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "rgb(243, 243, 243)",
+    "borderRadius": "10px",
+    "display": "flex",
+    "height": "40px",
+    "justifyContent": "space-between",
+    "padding": "10px 12px",
+    "width": "116px"
+  },
+  "blockId": "uqpcu1xjq",
+  "blockName": "Qty Editor",
+  "children": [
+    "o6vk9cryk",
+    "izymysemx",
+    "zdfuvmwb3"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

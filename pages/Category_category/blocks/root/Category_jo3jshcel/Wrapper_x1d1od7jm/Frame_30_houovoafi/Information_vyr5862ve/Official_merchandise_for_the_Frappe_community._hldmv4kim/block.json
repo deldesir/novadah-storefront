@@ -1,0 +1,40 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "18px",
+    "fontWeight": "400",
+    "letterSpacing": "0.18px",
+    "lineHeight": "150% ",
+    "maxWidth": "800px"
+  },
+  "blockId": "hldmv4kim",
+  "blockName": "Official merchandise for the Frappe community.",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "category_details.description",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Votre boutique de référence à Gonaïves pour l'électronique de pointe, l'électroménager moderne et la mode élégante.</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "fontSize": "16px"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

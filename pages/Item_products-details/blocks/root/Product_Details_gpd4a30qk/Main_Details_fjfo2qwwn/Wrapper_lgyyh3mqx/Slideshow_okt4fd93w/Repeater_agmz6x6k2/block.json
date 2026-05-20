@@ -1,0 +1,42 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "display": "grid",
+    "gap": "5px",
+    "gridAutoColumns": "minmax(0, 1fr)",
+    "gridTemplateColumns": "repeat(4, minmax(0, 1fr))",
+    "width": "100%"
+  },
+  "blockId": "agmz6x6k2",
+  "blockName": "Repeater",
+  "children": [
+    "mpnrwsqyy"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": {
+    "comesFrom": "blockDataScript",
+    "key": "images",
+    "property": "innerHTML",
+    "type": "key"
+  },
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": true,
+  "mobileStyles": {
+    "gridAutoColumns": "minmax(0, 1fr)",
+    "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

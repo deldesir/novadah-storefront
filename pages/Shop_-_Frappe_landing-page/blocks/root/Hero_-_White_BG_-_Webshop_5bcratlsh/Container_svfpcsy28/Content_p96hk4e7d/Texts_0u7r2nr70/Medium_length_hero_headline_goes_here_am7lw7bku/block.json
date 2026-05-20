@@ -1,0 +1,26 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "fontFamily": "Newsreader"
+  },
+  "blockId": "am7lw7bku",
+  "blockName": "Novadah Multi-Services — Électronique, Maison & Mode",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Votre Partenaire de Confiance à Gonaïves pour la Technologie, la Maison & la Mode</p>",
+  "isChildOfComponent": "1t7ojnv1t7ojnv1t",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "lgv3zhouf",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

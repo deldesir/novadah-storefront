@@ -1,0 +1,53 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "border": "1px solid  #EDEDED",
+    "borderColor": "rgb(237, 237, 237)",
+    "borderRadius": "8px",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "display": "flex",
+    "flexDirection": "row",
+    "gap": "10px",
+    "height": "105px",
+    "overflowX": "hidden",
+    "overflowY": "hidden",
+    "width": "105px"
+  },
+  "blockId": "mpnrwsqyy",
+  "blockName": "Item",
+  "children": [
+    "zimt9z9b9"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "button",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {
+    "image_url": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": false,
+      "isStandard": false,
+      "label": "",
+      "value": "url"
+    }
+  },
+  "rawStyles": {
+    "aspectRatio": "1/erp/1",
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

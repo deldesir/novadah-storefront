@@ -1,0 +1,1 @@
+block.visible = block.review_data.get("total_reviews", 0) > int(frappe.form_dict.review_page or "1") * 10

@@ -1,0 +1,35 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "__last_display": "flex",
+    "alignItems": "flex-start",
+    "alignSelf": "stretch",
+    "display": "none",
+    "flexDirection": "column",
+    "gap": "16px",
+    "width": "100%"
+  },
+  "blockId": "vvy8d7cdg",
+  "blockName": "Payment Info",
+  "children": [
+    "28vku3d3f",
+    "dwrp4pork"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,40 @@
+{
+  "activeState": null,
+  "attributes": {
+    "placeholder": "Enter coupon code here"
+  },
+  "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "rgb(243, 243, 243)",
+    "borderRadius": " 8px",
+    "display": "flex",
+    "fontSize": "14px",
+    "gap": "13px",
+    "height": "32px",
+    "padding": "8px 10px",
+    "width": "100%"
+  },
+  "blockId": "tx16uk0c0",
+  "blockName": "Code Input Box",
+  "children": [],
+  "classes": [],
+  "customAttributes": {
+    "id": "coupon-code-input"
+  },
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "input",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "border": "none"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

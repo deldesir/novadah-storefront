@@ -1,0 +1,1 @@
+block.visible = bool(block.item_details.get("price"))

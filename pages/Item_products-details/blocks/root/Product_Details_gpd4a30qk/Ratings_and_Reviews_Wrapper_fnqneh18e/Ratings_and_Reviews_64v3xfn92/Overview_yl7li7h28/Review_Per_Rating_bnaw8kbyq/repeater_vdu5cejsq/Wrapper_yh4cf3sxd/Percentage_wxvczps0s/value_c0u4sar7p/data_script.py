@@ -1,0 +1,1 @@
+block.block_data = {"percent": block.percent}

@@ -1,0 +1,42 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "12px",
+    "position": "relative"
+  },
+  "blockId": "bjoni6lk3",
+  "blockName": "Item Card - Grid View",
+  "children": [
+    "cf05n5w3t",
+    "9zxjwvbe8"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "route",
+      "property": "href",
+      "type": "attribute"
+    }
+  ],
+  "element": "a",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "gap": "8px"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {}
+}

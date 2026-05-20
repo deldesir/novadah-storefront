@@ -1,0 +1,1 @@
+this.innerHTML = renderStarRating(block_data.rating)

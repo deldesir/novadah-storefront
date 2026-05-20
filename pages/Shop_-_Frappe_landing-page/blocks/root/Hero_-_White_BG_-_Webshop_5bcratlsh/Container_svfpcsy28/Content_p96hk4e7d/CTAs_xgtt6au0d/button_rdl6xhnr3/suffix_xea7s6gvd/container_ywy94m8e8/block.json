@@ -1,0 +1,43 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "height": "24px",
+    "width": "24px"
+  },
+  "blockId": "ywy94m8e8",
+  "blockName": "container",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": "3nago073nago073n",
+  "innerHTML": null,
+  "isChildOfComponent": "1t7ojnv1t7ojnv1t",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {
+    "icon_name": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Icon Name",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "house"
+        },
+        "type": "string"
+      },
+      "value": "arrow-right"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": "6q357dwz3",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

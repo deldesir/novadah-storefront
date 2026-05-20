@@ -1,0 +1,43 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": ""
+  },
+  "baseStyles": {
+    "border": "1px solid #EDEDED",
+    "borderColor": "rgb(237, 237, 237)",
+    "borderRadius": "8px",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "boxSizing": "border-box",
+    "height": "100px",
+    "objectFit": "cover",
+    "width": "100px"
+  },
+  "blockId": "1qesgg3e9",
+  "blockName": "image 1",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "thumbnail",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": "img",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

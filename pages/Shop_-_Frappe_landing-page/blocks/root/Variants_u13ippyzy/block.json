@@ -1,0 +1,81 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "u13ippyzy",
+  "blockName": "Variants",
+  "children": [
+    "ugniv5uuc",
+    "0xa99u4f9",
+    "ax6o4qoti",
+    "mg8i729us",
+    "ed9uq93wq"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "extendedFromComponent": "5yb01f65yb01f65y",
+  "mobileStyles": {},
+  "props": {
+    "homepage_link": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Homepage Link",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "/"
+        },
+        "type": "string"
+      },
+      "value": null
+    },
+    "links": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Links",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": {
+            "À propos": "/about",
+            "Collections": "/collections",
+            "Boutique": "/store"
+          },
+          "maxItems": null,
+          "minItems": null
+        },
+        "type": "object"
+      },
+      "value": null
+    },
+    "variant": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Variant",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Links - Left",
+          "options": [
+            "Links - Right",
+            "Links - Center",
+            "Links - Left",
+            "Logo - Center"
+          ]
+        },
+        "type": "select"
+      },
+      "value": "Logo - Center"
+    }
+  },
+  "rawStyles": {},
+  "tabletStyles": {}
+}

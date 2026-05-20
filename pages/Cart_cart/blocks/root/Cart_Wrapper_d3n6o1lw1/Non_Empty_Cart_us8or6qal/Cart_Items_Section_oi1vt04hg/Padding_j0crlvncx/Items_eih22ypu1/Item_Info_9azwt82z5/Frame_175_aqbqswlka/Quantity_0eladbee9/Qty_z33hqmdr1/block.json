@@ -1,0 +1,40 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "color": "rgb(56, 56, 56)",
+    "fontSize": "10px",
+    "fontWeight": "420",
+    "letterSpacing": "0.2px",
+    "lineHeight": "115% ",
+    "transitionDuration": "300ms",
+    "transitionProperty": "all",
+    "transitionTimingFunction": "ease"
+  },
+  "blockId": "z33hqmdr1",
+  "blockName": "Qty",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "int_qty",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>1</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

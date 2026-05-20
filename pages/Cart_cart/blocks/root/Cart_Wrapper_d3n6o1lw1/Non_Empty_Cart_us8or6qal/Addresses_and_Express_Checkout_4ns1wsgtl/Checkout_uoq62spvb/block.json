@@ -1,0 +1,37 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "__last_display": "flex",
+    "alignItems": "flex-start",
+    "alignSelf": "stretch",
+    "display": "none",
+    "flexDirection": "column",
+    "gap": "32px",
+    "width": "100%"
+  },
+  "blockId": "uoq62spvb",
+  "blockName": "Checkout",
+  "children": [
+    "y1hhjhfqy",
+    "20v4833l1",
+    "vvy8d7cdg",
+    "c1dkm7a5j"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

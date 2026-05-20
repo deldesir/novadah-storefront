@@ -1,0 +1,39 @@
+{
+  "name": "cart",
+  "owner": "Administrator",
+  "creation": "2026-03-25 13:38:14.626002",
+  "modified": "2026-05-19 18:30:40.563643",
+  "modified_by": "Administrator",
+  "docstatus": 0,
+  "idx": 1,
+  "published": 1,
+  "page_name": "cart",
+  "route": "cart",
+  "dynamic_route": 0,
+  "published_at": "2026-05-19 15:45:26.631510",
+  "is_standard": 1,
+  "is_template": 0,
+  "app": "webshop",
+  "preview": "/erp/files/cart-preview.webp?v=5f542",
+  "page_title": "Cart",
+  "authenticated_access": 1,
+  "disable_indexing": 0,
+  "project_folder": "webshop",
+  "doctype": "Builder Page",
+  "client_scripts": [
+    {
+      "name": "0pl8llf1kj",
+      "owner": "Administrator",
+      "creation": "2026-03-25 13:38:14.626002",
+      "modified": "2026-05-19 15:45:26.631897",
+      "modified_by": "Administrator",
+      "docstatus": 0,
+      "idx": 1,
+      "builder_script": "spinner-f446b_30wajqn",
+      "parent": "cart",
+      "parentfield": "client_scripts",
+      "parenttype": "Builder Page",
+      "doctype": "Builder Page Client Script"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "overflow": "hidden",
+    "position": "relative",
+    "width": "100%"
+  },
+  "blockId": "m8gk78gi0",
+  "blockName": "Items",
+  "children": [
+    "1rcj3teiw"
+  ],
+  "classes": [],
+  "customAttributes": {
+    "data-items": ""
+  },
+  "dataKey": {
+    "comesFrom": "blockDataScript",
+    "key": "item_details.details.website_specifications",
+    "property": "innerHTML",
+    "type": "key"
+  },
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": true,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

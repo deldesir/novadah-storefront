@@ -1,0 +1,13 @@
+{
+  "name": "3nago073nago073n",
+  "owner": "Administrator",
+  "creation": "2026-05-19 15:40:42.075868",
+  "modified": "2026-05-19 15:45:20.780208",
+  "modified_by": "Administrator",
+  "docstatus": 0,
+  "idx": 0,
+  "component_name": "Placeholder",
+  "block": "{\"activeState\": null, \"attributes\": {}, \"baseStyles\": {\"alignItems\": \"center\", \"display\": \"flex\", \"flexDirection\": \"column\", \"flexShrink\": 0, \"height\": \"32px\", \"justifyContent\": \"center\", \"overflow\": \"hidden\", \"width\": \"32px\"}, \"blockClientScript\": \"const lucidePromise = import(\\\"https://esm.sh/lucide\\\");\\n\\nconst renderIcon = async () => {\\n  // remove previous svgs\\n  this.querySelectorAll(\\\"svg\\\").forEach(elem => elem.remove());\\n  \\n  const icon = document.createElement(\\\"i\\\");\\n  icon.dataset.lucide = props.icon_name;\\n  icon.style.height = getComputedStyle(this).height;\\n  icon.style.width = getComputedStyle(this).width;\\n  this.appendChild(icon);\\n\\n  const lucide = await lucidePromise;\\n  const { createIcons } = lucide;\\n\\n  // convert kebab-case → PascalCase\\n  const iconName = props.icon_name\\n    .split(\\\"-\\\")\\n    .map(w => w[0].toUpperCase() + w.slice(1))\\n    .join(\\\"\\\");\\n\\n  const Icon = lucide[iconName];\\n\\n  createIcons({\\n    icons: {\\n      [iconName]: Icon\\n    }\\n  });\\n};\\n\\n\\nrenderIcon();\\n\", \"blockDataScript\": \"\", \"blockId\": \"is5wcbotg\", \"blockName\": \"container\", \"children\": [], \"classes\": [], \"customAttributes\": {}, \"dataKey\": null, \"dynamicValues\": [], \"element\": \"div\", \"mobileStyles\": {}, \"props\": {\"icon_name\": {\"comesFrom\": null, \"isDynamic\": false, \"isPassedDown\": true, \"isStandard\": true, \"label\": \"Icon Name\", \"propOptions\": {\"isRequired\": false, \"options\": {\"defaultValue\": \"house\"}, \"type\": \"string\"}, \"value\": null}}, \"rawStyles\": {}, \"tabletStyles\": {}}",
+  "component_id": "3nago073nago073n",
+  "doctype": "Builder Component"
+}

@@ -1,0 +1,1 @@
+block.block_data = { "item_code" : block.item_details.get("details", {}).get("item_code", "") }

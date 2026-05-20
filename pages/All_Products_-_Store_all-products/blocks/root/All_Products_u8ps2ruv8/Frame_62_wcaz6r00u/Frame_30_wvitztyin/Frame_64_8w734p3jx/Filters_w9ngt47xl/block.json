@@ -1,0 +1,42 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "row",
+    "flexShrink": 0,
+    "gap": "12px",
+    "height": "45px",
+    "overflow": "hidden",
+    "position": "relative",
+    "width": "50%"
+  },
+  "blockId": "w9ngt47xl",
+  "blockName": "Filters",
+  "children": [
+    "jpxy0kqaa",
+    "40w8qlfdq"
+  ],
+  "classes": [],
+  "customAttributes": {
+    "data-select-wrapper": ""
+  },
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "width": "100%"
+  },
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {
+    "overflow": "visible"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

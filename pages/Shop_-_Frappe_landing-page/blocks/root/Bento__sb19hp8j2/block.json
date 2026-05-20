@@ -1,0 +1,109 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "backgroundColor": "rgb(250, 250, 250)"
+  },
+  "blockId": "sb19hp8j2",
+  "blockName": "Bento ",
+  "children": [
+    "3zhp3cbrb",
+    "rrfh8cxkq"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": "10ui19m10ui19m10",
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {
+    "bento_type": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Type",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Category",
+          "options": [
+            "Collection",
+            "Category"
+          ]
+        },
+        "type": "select"
+      },
+      "value": null
+    },
+    "first_item": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "First Item",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "T-Shirts"
+        },
+        "type": "string"
+      },
+      "value": "Shirts"
+    },
+    "fourth_item": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Fourth Item",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Mugs"
+        },
+        "type": "string"
+      },
+      "value": "Laptop Bags"
+    },
+    "second_item": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Second Item",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Laptop Bags"
+        },
+        "type": "string"
+      },
+      "value": "Hats"
+    },
+    "third_item": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Third Item",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Hats"
+        },
+        "type": "string"
+      },
+      "value": "Mugs"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

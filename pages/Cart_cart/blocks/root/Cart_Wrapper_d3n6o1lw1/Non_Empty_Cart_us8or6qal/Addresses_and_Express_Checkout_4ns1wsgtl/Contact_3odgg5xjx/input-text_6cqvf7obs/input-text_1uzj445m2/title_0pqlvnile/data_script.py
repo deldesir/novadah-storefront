@@ -1,0 +1,1 @@
+block.email = (frappe.db.get_all('User', filters={'name': frappe.session.user}, fields=['email']) or [{}])[0].get('email')

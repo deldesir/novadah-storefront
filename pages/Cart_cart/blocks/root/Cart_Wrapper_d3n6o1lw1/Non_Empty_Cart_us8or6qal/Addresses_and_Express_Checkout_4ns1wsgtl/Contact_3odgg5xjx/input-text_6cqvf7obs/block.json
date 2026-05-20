@@ -1,0 +1,36 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "backgroundColor": "rgb(243, 243, 243)",
+    "borderRadius": " 8px",
+    "display": "flex",
+    "gap": "13px",
+    "height": "32px",
+    "padding": "8px 10px",
+    "width": "100%"
+  },
+  "blockId": "6cqvf7obs",
+  "blockName": "input-text",
+  "children": [
+    "1uzj445m2"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

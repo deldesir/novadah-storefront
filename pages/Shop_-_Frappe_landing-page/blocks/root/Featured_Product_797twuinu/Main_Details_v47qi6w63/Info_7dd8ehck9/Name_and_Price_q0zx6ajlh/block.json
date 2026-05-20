@@ -1,0 +1,29 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "q0zx6ajlh",
+  "blockName": "Name and Price",
+  "children": [
+    "sxpqrekuu",
+    "uyinladck"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "7so4gti7so4gti7s",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "sateu2z7d",
+  "tabletStyles": {
+    "gap": "8px"
+  },
+  "visibilityCondition": null
+}

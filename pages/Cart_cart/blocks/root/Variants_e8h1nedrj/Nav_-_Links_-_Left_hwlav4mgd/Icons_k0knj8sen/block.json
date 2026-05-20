@@ -1,0 +1,29 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "k0knj8sen",
+  "blockName": "Icons",
+  "children": [
+    "nvmzjh929",
+    "es27m44uq",
+    "0x1g0pl80",
+    "co4hshew1"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "hg6y39j6c",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

@@ -1,0 +1,35 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "__last_display": "flex",
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "display": "none",
+    "flexDirection": "column",
+    "gap": "16px",
+    "width": "100%"
+  },
+  "blockId": "hp4ufbcsx",
+  "blockName": "Express Checkout",
+  "children": [
+    "h75ots5p9",
+    "5ieduicpz"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

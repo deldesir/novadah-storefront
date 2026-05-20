@@ -1,0 +1,1 @@
+block.visible = not frappe.session.user == "Guest"

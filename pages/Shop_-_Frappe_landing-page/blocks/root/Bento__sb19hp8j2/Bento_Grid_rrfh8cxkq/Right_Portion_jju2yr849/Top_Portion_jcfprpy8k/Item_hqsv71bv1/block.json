@@ -1,0 +1,71 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "hqsv71bv1",
+  "blockName": "Item",
+  "children": [
+    "49yr7x3o0",
+    "ldm4dfz1s"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "route",
+      "property": "href",
+      "type": "attribute"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": "5duqkgk5duqkgk5d",
+  "innerHTML": null,
+  "isChildOfComponent": "10ui19m10ui19m10",
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "minHeight": "240px"
+  },
+  "originalElement": "",
+  "props": {
+    "name": {
+      "comesFrom": "props",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Name",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Hats"
+        },
+        "type": "string"
+      },
+      "value": "second_item"
+    },
+    "type": {
+      "comesFrom": "props",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Type",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "Category",
+          "options": [
+            "Category",
+            "Collection"
+          ]
+        },
+        "type": "select"
+      },
+      "value": "bento_type"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": "r7nwt85u1",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

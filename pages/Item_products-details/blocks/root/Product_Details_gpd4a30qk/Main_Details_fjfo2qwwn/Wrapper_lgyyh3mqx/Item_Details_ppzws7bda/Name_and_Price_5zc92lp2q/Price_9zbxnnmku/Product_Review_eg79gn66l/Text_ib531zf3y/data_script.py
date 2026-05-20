@@ -1,0 +1,1 @@
+block.text = f"({block.review_data.get("average_rating")} stars) • {block.review_data.get("total_reviews")} reviews"

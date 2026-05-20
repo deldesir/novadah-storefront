@@ -1,0 +1,24 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "26led66m0",
+  "blockName": "Icons",
+  "children": [
+    "2t5awu9j8",
+    "j2jmqklmn",
+    "9ce4nwumo",
+    "cleax4vjn"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "nssxjc5v8",
+  "tabletStyles": {}
+}

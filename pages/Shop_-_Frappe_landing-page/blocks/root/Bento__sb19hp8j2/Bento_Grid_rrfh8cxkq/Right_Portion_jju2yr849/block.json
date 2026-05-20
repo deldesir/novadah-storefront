@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "jju2yr849",
+  "blockName": "Right Portion",
+  "children": [
+    "jcfprpy8k",
+    "bdhljsny5"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "10ui19m10ui19m10",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "ijc9217nw",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

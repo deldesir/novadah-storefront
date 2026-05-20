@@ -1,0 +1,26 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "7cmajkb65",
+  "blockName": "Products",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "blockDataScript",
+      "key": "collection.collection_name",
+      "property": "innerHTML",
+      "type": "key"
+    }
+  ],
+  "isChildOfComponent": "4l0zp754l0zp754l",
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "j99mj90oq",
+  "tabletStyles": {}
+}

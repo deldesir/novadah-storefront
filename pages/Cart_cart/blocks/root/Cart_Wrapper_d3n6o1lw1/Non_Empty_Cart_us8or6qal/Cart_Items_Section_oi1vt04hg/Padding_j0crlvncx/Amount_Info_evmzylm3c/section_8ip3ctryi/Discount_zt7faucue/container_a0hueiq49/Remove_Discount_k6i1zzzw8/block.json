@@ -1,0 +1,34 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "__last_display": "flex",
+    "display": "none",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "height": "fit-content",
+    "overflow": "hidden",
+    "width": "fit-content"
+  },
+  "blockId": "k6i1zzzw8",
+  "blockName": "Remove Discount",
+  "children": [
+    "5quy3cnqf"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "button",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

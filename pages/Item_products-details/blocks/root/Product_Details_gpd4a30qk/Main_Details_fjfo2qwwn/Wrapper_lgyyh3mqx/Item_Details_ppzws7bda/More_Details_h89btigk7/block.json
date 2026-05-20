@@ -1,0 +1,36 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "column",
+    "flexGrow": 0,
+    "flexShrink": 1,
+    "height": "fit-content",
+    "overflow": "hidden",
+    "position": "relative",
+    "width": "100%"
+  },
+  "blockId": "h89btigk7",
+  "blockName": "More Details",
+  "children": [
+    "bjapn8ls2",
+    "fst0573gb"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

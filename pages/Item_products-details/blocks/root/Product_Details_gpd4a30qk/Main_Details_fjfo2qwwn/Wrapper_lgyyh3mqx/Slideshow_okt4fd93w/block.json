@@ -1,0 +1,49 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "borderRadius": "8px",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 1,
+    "gap": "12px",
+    "justifyContent": "center",
+    "maxWidth": "500px",
+    "minHeight": "450px",
+    "overflowX": "hidden",
+    "overflowY": "hidden",
+    "position": "static",
+    "width": "50%"
+  },
+  "blockId": "okt4fd93w",
+  "blockName": "Slideshow",
+  "children": [
+    "q7s5mftsr",
+    "agmz6x6k2",
+    "yadryn6a4"
+  ],
+  "classes": [],
+  "customAttributes": {
+    "data-slideshow": ""
+  },
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "display": "flex",
+    "width": "100%"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "width": "100%"
+  },
+  "visibilityCondition": {}
+}

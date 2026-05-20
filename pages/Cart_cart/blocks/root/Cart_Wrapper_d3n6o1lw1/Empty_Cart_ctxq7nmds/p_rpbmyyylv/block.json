@@ -1,0 +1,32 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "height": "fit-content",
+    "lineHeight": "1.4",
+    "minWidth": "10px",
+    "position": "static",
+    "width": "fit-content"
+  },
+  "blockId": "rpbmyyylv",
+  "blockName": null,
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "extendedFromComponent": null,
+  "innerHTML": "<p>Votre panier est vide !</p>",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

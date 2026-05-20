@@ -1,0 +1,28 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "0y4ckyjio",
+  "blockName": "Links and Icons",
+  "children": [
+    "o5uojidgq",
+    "rmzxdu4ve",
+    "yqcexls45"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "wj3i9io0c",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

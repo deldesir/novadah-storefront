@@ -1,0 +1,62 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "16px"
+  },
+  "blockId": "7q7iogb9j",
+  "blockName": "Variant Selector",
+  "children": [
+    "oaswq288c"
+  ],
+  "classes": [],
+  "customAttributes": {
+    "data-variant-selector": ""
+  },
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {
+    "has_variant": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": false,
+      "isStandard": false,
+      "label": "",
+      "propOptions": {},
+      "value": "show_variant_selector"
+    },
+    "initally_selected_attribute": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": true,
+      "isStandard": false,
+      "label": "",
+      "value": "selected_attribute"
+    },
+    "variant_template_item_code": {
+      "comesFrom": "blockDataScript",
+      "isDynamic": true,
+      "isPassedDown": false,
+      "isStandard": false,
+      "label": "",
+      "value": "variant_template_item_code"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "show_variant_selector"
+  }
+}

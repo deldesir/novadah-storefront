@@ -1,0 +1,45 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "alignSelf": "stretch",
+    "display": "grid",
+    "gap": "24px",
+    "gridAutoColumns": "minmax(0, 1fr)",
+    "gridTemplateColumns": "repeat(4, minmax(0, 1fr))",
+    "width": "100%"
+  },
+  "blockId": "igjxu6g2p",
+  "blockName": "Products",
+  "children": [
+    "zr1uv8gsv"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": {
+    "comesFrom": "blockDataScript",
+    "key": "item_details.details.recommended_items",
+    "property": "innerHTML",
+    "type": "key"
+  },
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": true,
+  "mobileStyles": {
+    "gridAutoColumns": "minmax(0, 1fr)",
+    "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "gridAutoColumns": "minmax(0, 1fr)",
+    "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+  },
+  "visibilityCondition": null
+}

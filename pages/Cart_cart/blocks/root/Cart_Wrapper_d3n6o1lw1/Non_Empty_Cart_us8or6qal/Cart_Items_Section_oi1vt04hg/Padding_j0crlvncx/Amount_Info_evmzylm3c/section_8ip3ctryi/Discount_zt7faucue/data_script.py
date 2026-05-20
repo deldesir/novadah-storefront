@@ -1,0 +1,1 @@
+block.has_discount = bool(block.cart_data.get("cart_quotation").get("discount_amount"))

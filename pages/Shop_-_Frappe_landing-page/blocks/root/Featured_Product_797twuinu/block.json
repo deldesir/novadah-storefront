@@ -1,0 +1,43 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "797twuinu",
+  "blockName": "Featured Product",
+  "children": [
+    "8si4v2xvh",
+    "v47qi6w63"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": "7so4gti7so4gti7s",
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {
+    "item_code": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Item Code",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "WEB-ITM-0007"
+        },
+        "type": "string"
+      },
+      "value": null
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

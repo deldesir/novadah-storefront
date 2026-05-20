@@ -1,0 +1,41 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "display": "flex",
+    "flexDirection": "column",
+    "gap": "36px",
+    "overflowX": "hidden",
+    "overflowY": "hidden",
+    "padding": "60px 40px 130px 40px",
+    "width": "1000px"
+  },
+  "blockId": "d3n6o1lw1",
+  "blockName": "Cart Wrapper",
+  "children": [
+    "us8or6qal",
+    "ctxq7nmds"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "padding": "20px",
+    "width": "100%"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "width": "100%"
+  },
+  "visibilityCondition": {}
+}

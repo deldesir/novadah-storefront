@@ -1,0 +1,1 @@
+block.visible = bool(block.total_items)

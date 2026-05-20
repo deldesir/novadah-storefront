@@ -1,0 +1,1 @@
+block.item_details = frappe.call("webshop.webshop.api.get_item", item_code=props["item_code"])

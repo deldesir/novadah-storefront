@@ -1,0 +1,36 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignSelf": "stretch",
+    "borderColor": "rgb(0, 0, 0)",
+    "borderStyle": "solid",
+    "borderWidth": "1px",
+    "width": "0"
+  },
+  "blockId": "0vlwljleh",
+  "blockName": "Divider",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "svg",
+  "extendedFromComponent": null,
+  "innerHTML": "<svg width=\"1\" height=\"28\" viewBox=\"0 0 1 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M0.5 0V28\" stroke=\"black\"/>\n</svg>\n",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "__raw_html__",
+  "props": {},
+  "rawStyles": {
+    "stroke": " #000",
+    "strokeWidth": "1px"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "visible"
+  }
+}

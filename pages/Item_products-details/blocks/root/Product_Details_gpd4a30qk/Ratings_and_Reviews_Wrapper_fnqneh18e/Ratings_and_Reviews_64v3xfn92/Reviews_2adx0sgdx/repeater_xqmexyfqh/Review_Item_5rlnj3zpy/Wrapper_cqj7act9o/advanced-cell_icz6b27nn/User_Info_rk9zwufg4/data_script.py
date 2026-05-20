@@ -1,0 +1,1 @@
+block.user_image = (frappe.db.get_all('User', filters={'name': block.user}, fields=['user_image']) or [{}])[0].get('user_image') if block.user else None

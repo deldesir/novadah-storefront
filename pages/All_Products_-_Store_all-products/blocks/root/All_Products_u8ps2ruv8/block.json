@@ -1,0 +1,44 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "height": "fit-content",
+    "overflow": "hidden",
+    "paddingBottom": "60px",
+    "paddingLeft": "180px",
+    "paddingRight": "180px",
+    "paddingTop": "60px",
+    "width": "100%"
+  },
+  "blockId": "u8ps2ruv8",
+  "blockName": "All Products",
+  "children": [
+    "wcaz6r00u"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "padding": "20px"
+  },
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "paddingBottom": "30px",
+    "paddingLeft": "80px",
+    "paddingRight": "80px",
+    "paddingTop": "30px"
+  },
+  "visibilityCondition": null
+}

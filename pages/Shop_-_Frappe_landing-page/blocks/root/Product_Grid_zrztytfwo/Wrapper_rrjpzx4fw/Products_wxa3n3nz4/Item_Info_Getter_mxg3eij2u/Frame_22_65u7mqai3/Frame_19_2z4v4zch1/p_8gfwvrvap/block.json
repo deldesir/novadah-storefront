@@ -1,0 +1,30 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "fontSize": "16px",
+    "height": "fit-content",
+    "lineHeight": "1.4",
+    "minWidth": "10px",
+    "position": "static",
+    "width": "fit-content"
+  },
+  "blockId": "8gfwvrvap",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "p",
+  "innerHTML": "<p>Aucune image disponible</p>",
+  "isChildOfComponent": "f8ba9d4fff23821f",
+  "mobileStyles": {},
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "slzk79vfr",
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "is_image_not_available"
+  }
+}

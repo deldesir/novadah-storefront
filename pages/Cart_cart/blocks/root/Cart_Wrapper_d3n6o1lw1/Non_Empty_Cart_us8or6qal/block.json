@@ -1,0 +1,48 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "flex-start",
+    "display": "flex",
+    "flexDirection": "row",
+    "flexShrink": 0,
+    "gap": "36px",
+    "height": "fit-content",
+    "justifyContent": "center",
+    "overflow": "hidden",
+    "position": "static",
+    "width": "fit-content"
+  },
+  "blockId": "us8or6qal",
+  "blockName": "Non Empty Cart",
+  "children": [
+    "4ns1wsgtl",
+    "kuszckuut",
+    "oi1vt04hg"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "flexDirection": "column",
+    "width": "100%"
+  },
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "flexDirection": "column",
+    "width": "100%"
+  },
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "is_cart_not_empty"
+  }
+}

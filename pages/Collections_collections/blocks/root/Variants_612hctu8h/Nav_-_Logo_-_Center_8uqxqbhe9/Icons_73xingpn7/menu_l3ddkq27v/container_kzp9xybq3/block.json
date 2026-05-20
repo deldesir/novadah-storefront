@@ -1,0 +1,44 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "__last_display": "flex",
+    "display": "none",
+    "height": "16px",
+    "width": "16px"
+  },
+  "blockId": "kzp9xybq3",
+  "blockName": "container",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "extendedFromComponent": "nw30smnw30smnw30",
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "mobileStyles": {
+    "display": "flex"
+  },
+  "props": {
+    "icon_name": {
+      "comesFrom": null,
+      "isDynamic": false,
+      "isPassedDown": true,
+      "isStandard": true,
+      "label": "Icon Name",
+      "propOptions": {
+        "isRequired": false,
+        "options": {
+          "defaultValue": "home"
+        },
+        "type": "string"
+      },
+      "value": "menu"
+    }
+  },
+  "rawStyles": {},
+  "referenceBlockId": "apymw755n",
+  "tabletStyles": {
+    "display": "flex"
+  }
+}

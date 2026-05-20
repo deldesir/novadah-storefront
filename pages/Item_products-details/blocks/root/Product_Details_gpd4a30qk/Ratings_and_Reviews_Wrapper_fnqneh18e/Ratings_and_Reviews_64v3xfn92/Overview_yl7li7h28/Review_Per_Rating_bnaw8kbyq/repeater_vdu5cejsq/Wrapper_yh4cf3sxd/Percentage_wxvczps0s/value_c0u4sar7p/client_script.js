@@ -1,0 +1,1 @@
+this.style.width = block_data.percent ? `${block_data.percent}%` : "0px"

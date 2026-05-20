@@ -1,0 +1,53 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "display": "grid",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "gap": "32px",
+    "gridAutoColumns": "minmax(0, 1fr)",
+    "gridTemplateColumns": "repeat(4, minmax(0, 1fr))",
+    "marginBottom": "20px",
+    "marginLeft": "0px",
+    "marginRight": "0px",
+    "marginTop": "20px",
+    "overflow": "hidden",
+    "width": "100%"
+  },
+  "blockId": "47q66w3ad",
+  "blockName": "Product List",
+  "children": [
+    "ne8qwt2v3"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": {
+    "comesFrom": "blockDataScript",
+    "key": "items",
+    "property": "innerHTML",
+    "type": "key"
+  },
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": true,
+  "mobileStyles": {
+    "gridAutoColumns": "minmax(0, 1fr)",
+    "gridTemplateColumns": "repeat(2, minmax(0, 1fr))"
+  },
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "gridAutoColumns": "minmax(0, 1fr)",
+    "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+  },
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "total_items"
+  }
+}

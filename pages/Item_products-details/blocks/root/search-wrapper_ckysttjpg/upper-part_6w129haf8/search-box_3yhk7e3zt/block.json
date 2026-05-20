@@ -1,0 +1,27 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "3yhk7e3zt",
+  "blockName": "search-box",
+  "children": [],
+  "classes": [],
+  "customAttributes": {
+    "border": "none",
+    "placeholder": "Rechercher"
+  },
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "76776y376776y376",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "3g4m47kd4",
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

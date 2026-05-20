@@ -1,0 +1,39 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": "/assets/webshop/builder_assets/image.webp"
+  },
+  "baseStyles": {
+    "alignSelf": "stretch",
+    "objectFit": "cover"
+  },
+  "blockId": "ok3nlrw48",
+  "blockName": "image 2",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "props",
+      "key": "image",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": "img",
+  "innerHTML": "",
+  "isChildOfComponent": "f8ba9d4fff23821f",
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {
+    "flex": "1 0 0"
+  },
+  "referenceBlockId": "9dbthm1ik",
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "is_image_available"
+  }
+}

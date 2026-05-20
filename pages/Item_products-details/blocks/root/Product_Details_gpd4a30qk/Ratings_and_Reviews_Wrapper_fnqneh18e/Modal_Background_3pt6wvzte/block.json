@@ -1,0 +1,42 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "#ffffffc7",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "height": "100dvh",
+    "justifyContent": "center",
+    "left": "-100%",
+    "overflow": "hidden",
+    "position": "fixed",
+    "top": "-100%",
+    "width": "100%",
+    "zIndex": "999"
+  },
+  "blockId": "3pt6wvzte",
+  "blockName": "Modal Background",
+  "children": [
+    "lzfl4nfc5"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {
+    "backdrop-filter": "blur(3px)"
+  },
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

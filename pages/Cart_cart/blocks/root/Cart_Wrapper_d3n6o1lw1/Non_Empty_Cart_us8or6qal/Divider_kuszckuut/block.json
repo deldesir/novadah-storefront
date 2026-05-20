@@ -1,0 +1,40 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "__last_display": "flex",
+    "alignItems": "center",
+    "alignSelf": "stretch",
+    "display": "none",
+    "gap": "10px",
+    "height": "1001px",
+    "padding": "0px"
+  },
+  "blockId": "kuszckuut",
+  "blockName": "Divider",
+  "children": [
+    "jtu8b0woz"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "section",
+  "extendedFromComponent": null,
+  "innerHTML": "",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {
+    "__last_display": "flex",
+    "display": "none"
+  },
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {
+    "__last_display": "flex",
+    "display": "none"
+  },
+  "visibilityCondition": null
+}

@@ -1,0 +1,41 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignItems": "center",
+    "backgroundColor": "#ededed",
+    "display": "flex",
+    "flexDirection": "column",
+    "flexShrink": 0,
+    "height": "100dvh",
+    "justifyContent": "center",
+    "left": "-100%",
+    "opacity": "0.85",
+    "overflow": "hidden",
+    "position": "fixed",
+    "top": "-100%",
+    "width": "100%",
+    "zIndex": "9999"
+  },
+  "blockId": "u47d85pts",
+  "blockName": "Loading Modal",
+  "children": [
+    "9z49iscsj"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "div",
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": null,
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

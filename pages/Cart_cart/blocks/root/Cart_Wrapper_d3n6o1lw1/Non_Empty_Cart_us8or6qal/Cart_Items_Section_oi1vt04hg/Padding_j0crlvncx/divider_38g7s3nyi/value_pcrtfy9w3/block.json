@@ -1,0 +1,30 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {
+    "alignSelf": "stretch",
+    "height": "1px",
+    "overflowX": "hidden",
+    "overflowY": "hidden",
+    "width": "100%"
+  },
+  "blockId": "pcrtfy9w3",
+  "blockName": "value",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "element": "svg",
+  "extendedFromComponent": null,
+  "innerHTML": "<svg width=\"376\" height=\"1\" viewBox=\"0 0 376 1\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect width=\"376\" height=\"1\" fill=\"#EDEDED\"/>\n</svg>\n",
+  "isChildOfComponent": null,
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "__raw_html__",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": null,
+  "tabletStyles": {},
+  "visibilityCondition": null
+}

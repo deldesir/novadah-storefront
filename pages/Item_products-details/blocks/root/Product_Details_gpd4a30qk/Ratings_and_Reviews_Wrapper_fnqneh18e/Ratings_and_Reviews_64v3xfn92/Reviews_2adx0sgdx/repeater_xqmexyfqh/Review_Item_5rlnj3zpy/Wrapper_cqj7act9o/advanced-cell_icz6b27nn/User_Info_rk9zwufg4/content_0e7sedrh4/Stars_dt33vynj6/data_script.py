@@ -1,0 +1,1 @@
+block.block_data = {"rating":block.rating * 5}

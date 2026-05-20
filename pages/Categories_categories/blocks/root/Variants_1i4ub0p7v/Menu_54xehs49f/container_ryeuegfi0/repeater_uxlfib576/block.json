@@ -1,0 +1,21 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "uxlfib576",
+  "blockName": "repeater",
+  "children": [
+    "kd3thywfm"
+  ],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [],
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "isRepeaterBlock": true,
+  "mobileStyles": {},
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "os4eg5sb9",
+  "tabletStyles": {}
+}

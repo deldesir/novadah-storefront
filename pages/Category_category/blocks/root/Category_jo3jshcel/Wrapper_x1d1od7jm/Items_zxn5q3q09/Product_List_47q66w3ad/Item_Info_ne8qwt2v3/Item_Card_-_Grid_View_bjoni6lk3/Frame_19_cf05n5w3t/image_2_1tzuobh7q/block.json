@@ -1,0 +1,36 @@
+{
+  "activeState": null,
+  "attributes": {
+    "src": "https://webshop-next.m.frappe.cloud/assets/webshop/builder_assets/image.webp"
+  },
+  "baseStyles": {},
+  "blockId": "1tzuobh7q",
+  "blockName": "image 2",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "props",
+      "key": "image",
+      "property": "src",
+      "type": "attribute"
+    }
+  ],
+  "element": null,
+  "extendedFromComponent": null,
+  "innerHTML": null,
+  "isChildOfComponent": "enur6fenur6fenur",
+  "isRepeaterBlock": false,
+  "mobileStyles": {},
+  "originalElement": "",
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "9dbthm1ik",
+  "tabletStyles": {},
+  "visibilityCondition": {
+    "comesFrom": "blockDataScript",
+    "key": "is_image_available"
+  }
+}

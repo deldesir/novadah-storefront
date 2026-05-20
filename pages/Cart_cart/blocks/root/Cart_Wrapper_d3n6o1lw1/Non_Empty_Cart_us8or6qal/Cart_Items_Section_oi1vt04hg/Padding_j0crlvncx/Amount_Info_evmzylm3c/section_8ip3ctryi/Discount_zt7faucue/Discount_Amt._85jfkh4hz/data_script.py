@@ -1,0 +1,1 @@
+block.discount_amount_formatted = "- " + block.cart_data.get("cart_quotation").get("formatted_discount_amount")

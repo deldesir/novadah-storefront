@@ -1,0 +1,31 @@
+{
+  "activeState": null,
+  "attributes": {},
+  "baseStyles": {},
+  "blockId": "ob909r2vu",
+  "blockName": "Links",
+  "children": [],
+  "classes": [],
+  "customAttributes": {},
+  "dataKey": null,
+  "dynamicValues": [
+    {
+      "comesFrom": "props",
+      "key": "key",
+      "property": "innerHTML",
+      "type": "key"
+    },
+    {
+      "comesFrom": "props",
+      "key": "value",
+      "property": "href",
+      "type": "attribute"
+    }
+  ],
+  "isChildOfComponent": "5yb01f65yb01f65y",
+  "mobileStyles": {},
+  "props": {},
+  "rawStyles": {},
+  "referenceBlockId": "eho9buscb",
+  "tabletStyles": {}
+}
