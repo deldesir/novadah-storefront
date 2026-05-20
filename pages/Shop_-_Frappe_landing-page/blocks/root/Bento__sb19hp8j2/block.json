@@ -39,7 +39,7 @@
         },
         "type": "select"
       },
-      "value": null
+      "value": "Category"
     },
     "first_item": {
       "comesFrom": null,
@@ -54,7 +54,7 @@
         },
         "type": "string"
       },
-      "value": "Shirts"
+      "value": "Électronique"
     },
     "fourth_item": {
       "comesFrom": null,
@@ -69,7 +69,7 @@
         },
         "type": "string"
       },
-      "value": "Laptop Bags"
+      "value": "Nouveautés"
     },
     "second_item": {
       "comesFrom": null,
@@ -84,7 +84,7 @@
         },
         "type": "string"
       },
-      "value": "Hats"
+      "value": "Mode et Accessoires"
     },
     "third_item": {
       "comesFrom": null,
@@ -99,7 +99,7 @@
         },
         "type": "string"
       },
-      "value": "Mugs"
+      "value": "Maison et Déco"
     }
   },
   "rawStyles": {},
