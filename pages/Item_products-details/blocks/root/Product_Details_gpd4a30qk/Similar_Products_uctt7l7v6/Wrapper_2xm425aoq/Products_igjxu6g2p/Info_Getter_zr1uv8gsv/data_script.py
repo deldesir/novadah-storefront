@@ -2,4 +2,4 @@ price = frappe.call("webshop.webshop.api.get_item_price", item_code = block.webs
 block.item_price = price.get("formatted_price", "")
 
 block.is_template = bool(block.has_variants)
-block.route = f"/erp/item/{block.website_item}"
+block.route = f"/item/{block.website_item}"

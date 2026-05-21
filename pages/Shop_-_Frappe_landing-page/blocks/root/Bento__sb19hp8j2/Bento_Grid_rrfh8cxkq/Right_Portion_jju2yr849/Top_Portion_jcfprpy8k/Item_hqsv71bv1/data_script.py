@@ -10,4 +10,4 @@ if props["name"]:
   except Exception as e:
     block.err = e
 
-block.route = ("/erp/category/" if props["type"] == "Category" else "/collection/") + props["name"]
+block.route = ("/category/" if props["type"] == "Category" else "/collection/") + props["name"]

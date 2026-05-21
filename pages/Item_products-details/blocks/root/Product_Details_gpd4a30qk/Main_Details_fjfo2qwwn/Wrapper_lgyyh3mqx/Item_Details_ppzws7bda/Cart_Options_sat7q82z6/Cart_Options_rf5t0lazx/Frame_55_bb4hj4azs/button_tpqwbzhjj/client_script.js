@@ -1,6 +1,6 @@
 const toRoute = (obj) => {
   const [key, value] = Object.entries(obj)[0];
-  return `/erp/${key}s/${value}`;
+  return `/${key}s/${value}`;
 };
 
 this.addEventListener("click", async () => {
