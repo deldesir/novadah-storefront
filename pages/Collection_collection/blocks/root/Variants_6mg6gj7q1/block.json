@@ -50,7 +50,7 @@
         "isRequired": false,
         "options": {
           "defaultValue": {
-            "À propos": "/about",
+            "Catégories": "/categories",
             "Collections": "/collections",
             "Boutique": "/store"
           },
