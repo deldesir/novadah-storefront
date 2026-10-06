@@ -89,7 +89,8 @@ show_prices = bool(settings.get("enabled")) and bool(settings.get("show_price"))
 price_list = settings.get("price_list")
 number_format = frappe.db.get_single_value("System Settings", "number_format") or "#,###.##"
 
-def fmt_money(amount, currency):
+# (functions defined here cannot see the script's other names in Builder's sandbox: pass them in)
+def fmt_money(amount, currency, number_format=number_format):
     decimals = 2 if "." in number_format[-3:] or "," in number_format[-3:] and number_format.endswith(",##") else 0
     if number_format in ("#,###", "#.###", "# ###", "#"):
         decimals = 0
@@ -123,9 +124,10 @@ if show_prices and price_list and items:
         prices.setdefault(row.get("item_code"), row)
 
 # --- pre-compute per-item derived fields ---
-def enrich(item):
+items_out = []
+for item in items:
     if not item:
-        return item
+        continue
     name = item.get("name")
     item["route"] = f"/item/{name}"
     price = None
@@ -135,6 +137,6 @@ def enrich(item):
     item["is_template"] = bool(item.get("has_variants"))
     if not item.get("website_image"):
         item["website_image"] = ""
-    return item
+    items_out.append(item)
 
-data.items = [enrich(it) for it in items if it]
+data.items = items_out
